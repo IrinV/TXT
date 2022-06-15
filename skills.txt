@@ -1,0 +1,6 @@
+QA skills:
+-Linux terminal commands (GitBash)
+-JS
+-Git
+-Postman
+-Mobile QA
