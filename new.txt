@@ -1,0 +1,4 @@
+name: Iryna Volobuieva
+age: 29
+pets: 0
+expected salary: 500$
